@@ -27,7 +27,7 @@ Essential oils and concentrated acids are corrosive and can irritate your skin a
 
 Here are some modifications you could make to the recipes:
 
-- Use sugar syrup instead of artificial sweeteners. For a recipe containing 2 ml essential oils, dissolve 1 kg white sugar in 1 L of hot water.
+- Use sugar syrup instead of artificial sweeteners. To replace 0.6 g sucralose, boil 400 g white sugar in 400 ml of hot water.
 - Add caffeine powder during the final mixing step. You know best how much you want. Please be careful, the LD50 is only about 10 g.
 
 ## License
