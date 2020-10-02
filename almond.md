@@ -13,9 +13,9 @@ Combine
 
 in a small glass or ceramic container. Add
 
-- 1 ml essential blood orange oil
+- 1.2 ml essential blood orange oil
 - 0.5 ml essential lime oil
-- 0.5 ml essential bitter almond oil (hydrogen cyanide-free)
+- 0.3 ml essential bitter almond oil (hydrogen cyanide-free)
 
 and mix with a hand mixer until an emulsion forms (and the mixture takes on a uniform light brown appearance), this takes about 5-10 minutes. Now add
 
@@ -32,6 +32,10 @@ Optionally, add enough
 to make the concentrate deep orange.
 
 ## Changelog
+
+### 0.1.1 - 2020-10-02
+
+- Move 0.2 ml from almond oil to blood orange oil, to highlight the citrus notes more.
 
 ### 0.1.0 - 2020-09-21
 
