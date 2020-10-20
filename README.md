@@ -13,9 +13,9 @@ Essential oils and concentrated acids are corrosive and can irritate your skin a
 ## Equipment
 
 - Electric hand mixer.
-- Small glass or ceramic container that barely fits your mixer. Don't use a plastic container, as the oils will start to break it down.
-- Small syringe with a blunt-tip needle for measuring the oils. Alternatively, 1 ml of essential oil weighs around 0.85 g.
 - High-precision weighing scale.
+- Small glass or ceramic container that barely fits your mixer. Don't use a plastic container, as the oils will start to break it down.
+- Small syringe with a blunt-tip needle for measuring the oils. Alternatively, 1 ml of essential oil weighs around 0.85 g (but in my experience, measuring these tiny amounts by dripping them on a scale is rather imprecise).
 
 ## Sourcing
 
