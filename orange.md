@@ -13,9 +13,9 @@ Combine
 
 in a small glass or ceramic container. Add
 
-- 1.5 ml essential orange oil
-- 0.25 ml essential lime oil
-- 0.25 ml essential lemon oil
+- 1.7 ml essential orange oil
+- 0.15 ml essential lime oil
+- 0.15 ml essential lemon oil
 
 and mix with a hand mixer until an emulsion forms (and the mixture takes on a uniform light brown appearance), this takes about 5-10 minutes. Now add
 
@@ -32,6 +32,10 @@ Optionally, add enough
 to make the concentrate deep yellow.
 
 ## Changelog
+
+### 0.1.1 - 2021-01-20
+
+- Move 0.1 ml from each lime and lemon to orange.
 
 ### 0.1.0 - 2020-09-21
 
